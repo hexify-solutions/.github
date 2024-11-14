@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 ## Welcome to Hexify
-
-### For the care connect
-- FE Client - 9000
-- FE Admin  - 9001
-- BE Core   - 9002
+https://hexifysolutions.com
 <!--
 
 **Here are some ideas to get you started:**
